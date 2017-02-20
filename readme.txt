@@ -5,4 +5,3 @@ Git tracks changes of file.
 Create a new branch is quick.
 Create a new branch is quick And simple.
 
-this is a remote push test
